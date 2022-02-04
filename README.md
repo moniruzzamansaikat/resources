@@ -1,7 +1,5 @@
 # Resources for web developers/designers
 
-### Inspiration
-
 ## Icons
 
 - [Icons 8](https://icons8.com)
@@ -20,10 +18,8 @@
 - [Good Sutffs no-nonsense](https://goodstuffnononsense.com/icons-category/free/)
 - [Design Beep Icons](http://designbeep.com/category/freebies/icons-freebies/)
 
-### Graphics
+## Graphics
 
 - [Raw Pixel](https://www.rawpixel.com/)
 - [Freepik](https://www.freepik.com/)
 - [Vecteezy](https://www.vecteezy.com/)
-
-### Icons
