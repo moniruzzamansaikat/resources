@@ -25,4 +25,4 @@
 - [Freepik](https://www.freepik.com/)
 - [Vecteezy](https://www.vecteezy.com/)
 - [IllustrationX](https://www.illustrationx.com) 
-- [IllustrationX](https://www.cleanpng.com/)
+- [Clean Png](https://www.cleanpng.com/)
