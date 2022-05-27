@@ -17,6 +17,8 @@
 - [Pexeden](http://www.pixeden.com/icons-set/)
 - [Good Sutffs no-nonsense](https://goodstuffnononsense.com/icons-category/free/)
 - [Design Beep Icons](http://designbeep.com/category/freebies/icons-freebies/)
+- [Vector Wiki](https://vectorwiki.com/)
+- [https://blobsicons.bargush.me/](http://designbeep.com/category/freebies/icons-freebies/)
 
 ## Graphics
 
